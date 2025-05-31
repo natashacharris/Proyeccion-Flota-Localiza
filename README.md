@@ -2,6 +2,8 @@
 
 Se desarrolló un archivo en **Excel** utilizando programación con **Power Query, Power Pivot y lenguaje DAX,** con el objetivo de integrar y analizar variables clave como:
 
+Variable Tiempo
+
 Reservas confirmadas
 
 Flota disponible
